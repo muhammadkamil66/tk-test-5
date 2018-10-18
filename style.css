@@ -1,0 +1,25 @@
+.nav{
+	position: -webkit-sticky;
+    position: sticky;
+    top: 0;
+    z-index: 10;
+}
+.logo{
+	height: 60px;
+	width: 58px;
+}
+.img{
+	height: 400px;
+}
+iframe{
+	width: 100%;
+	min-width: 250px;
+
+}
+.images{
+	height: 200px;
+	width: 200px;
+}
+.para{
+	padding: 20px;
+}
